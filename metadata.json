@@ -1,0 +1,8 @@
+{
+  "name": "Smart Soil Tester",
+  "description": "An AI-powered Smart Soil Tester to analyze soil health and get crop recommendations.",
+  "requestFramePermissions": [
+    "bluetooth",
+    "geolocation"
+  ]
+}
